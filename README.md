@@ -144,5 +144,3 @@ docs/protocol-spec.md
 docs/protocol-spec.pdf
 docs/annotated-capture.md
 ```
-
-The assignment brief specifically says not to read or use `02-http11/server11.py`; this implementation does not use it.
